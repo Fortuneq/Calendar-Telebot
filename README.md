@@ -17,4 +17,4 @@ selector := &tele.ReplyMarkup{}
 
 #### Example of calendar
 
-![Example of calendar ](IMAGE2022-12-0302:10:30.jpg "Calendar")
+![Example of calendar ](IMAGE2022-12-0302:10:30.jpg?raw=true "Calendar")
